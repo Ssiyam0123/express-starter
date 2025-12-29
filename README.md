@@ -50,7 +50,7 @@ NODE_ENV=development
 ## ▶️ Run the Server
 
 ```bash
-bun run src/index.ts
+bun run dev
 ```
 
 Server will start at:
